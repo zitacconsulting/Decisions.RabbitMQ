@@ -1,0 +1,12 @@
+{
+    "ModuleName": "Zitac",
+    "ModuleDependencies": null,
+    "Version": "8.19.0",
+    "RequiresLicense": false,
+    "Description": "Function to send RabbitMQ Messages with the posibility to wait for Response using correlation ID",
+    "CompiledOnDate": "2024-05-16T11:52:29.8228305+01:30",
+    "CompiledOnServer": "KEVI",
+    "Installed": false,
+    "InstalledVersion": null,
+    "IsGithubModule": false
+}
