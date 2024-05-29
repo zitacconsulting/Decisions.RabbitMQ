@@ -12,7 +12,7 @@ using System.Text;
 
 namespace Zitac.RabbitMQ.Steps;
 
-[AutoRegisterStep("Send Message", "Integration", "RabbitMQ")]
+[AutoRegisterStep("Send Message", "Integration", "RabbitMQ", "Zitac")]
 [Writable]
 public class SendMessage : BaseFlowAwareStep, ISyncStep, IDataConsumer, IDataProducer, IDefaultInputMappingStep
 {
